@@ -1,4 +1,4 @@
-name: Check & Test
+name: Check
 
 on:
   merge_group:
